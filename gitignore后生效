@@ -1,3 +1,4 @@
+touch .gitignore # 进入项目所在目录，生成".gitignore"文件
 git rm -r --cached .  #清除缓存  
 git add . #重新trace file  
 git commit -m "update .gitignore" #提交和注释  
